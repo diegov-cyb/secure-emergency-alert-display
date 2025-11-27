@@ -24,7 +24,7 @@ Final emergency alert dashboard shown on the display after securing the Raspberr
 Captured network traffic used to verify TLS/SSH encryption. The step ensured VNC traffic and alert data were securely transmitted without exposing sensitive information.
 ![Network & Encryption Validation](images/Pi3.jpeg)
 
-### **3. SSH Tunnel + Remote Management Setup
+### **3. SSH Tunnel + Remote Management Setup**
 Remote administration of the Pi over an encrypted SSH tunnel. This demonstrates secure headless access, used to manage VNC, system services, and security configurations.
 ![Secure Setup](images/Pi2.jpeg)
 
